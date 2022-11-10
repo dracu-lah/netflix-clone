@@ -1,5 +1,5 @@
 
-#Netflix clone
+# Netflix clone
 
 Created to familiarize the concepts of api's, usage of react, redux, css , etc.
 
