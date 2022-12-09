@@ -1,5 +1,6 @@
 
 # Netflix clone
+![netflix](https://user-images.githubusercontent.com/110589548/206756121-8a424ea6-03d3-4fa2-9fd8-2601da59e1d6.png)
 
 Created to familiarize the concepts of api's, usage of react, redux, css , etc.
 
