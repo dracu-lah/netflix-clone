@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Site Deployed Link:
 
-Link:https://netflix-clone-5d1ed.web.app/profile
+Link:https://silver-beignet-ef6ab9.netlify.app/
 
 ## Available Scripts
 
